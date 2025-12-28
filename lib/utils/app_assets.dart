@@ -3,4 +3,5 @@ abstract final class AppAsset {
   static const splash = "${_basePath}splash_screen.png";
   static const icon = "${_basePath}FAB.png";
   static const squares = "${_basePath}list-purple-Xetxuqguwn.png";
+  static const abdo = "${_basePath}abdoelblf.png";
 }
